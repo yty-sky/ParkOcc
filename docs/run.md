@@ -26,8 +26,8 @@ Visualize occupancy predictions, occupancy groundtruth and the multi-scale occup
 
 First, you need to generate prediction results. Here we use whole validation set as an example.
 ```
-./tools/dist_test.sh ./projects/configs/adaptiveocc/adaptiveocc_inference_vis.py ./path/to/ckpts.pth 4
-# python ./tools/test.py ./projects/configs/adaptiveocc/adaptiveocc_inference_vis.py ./path/to/ckpts.pth --deterministic --eval bbox
+./tools/dist_test.sh ./projects/configs/adaptiveocc/parkocc_inference_vis.py ./path/to/ckpts.pth 4
+# python ./tools/test.py ./projects/configs/adaptiveocc/parkocc_inference_vis.py ./path/to/ckpts.pth --deterministic --eval bbox
 ```
 You will get prediction results in './visual_dir'. You can directly use meshlab to visualize .ply files or run visual_octree.py to visualize raw .npy files with mayavi:
 ```
