@@ -1,6 +1,8 @@
 We have currently only open-sourced one scene from the dataset, as it takes time to anonymize all the data.
 
-**1. Download ParkOcc dataset data [HERE](https://jbox.sjtu.edu.cn/l/lHHZKZ). Folder structure:**
+**1. Download ParkOcc dataset data [HERE](https://jbox.sjtu.edu.cn/l/lHHZKZ)（
+new link: https://pan.baidu.com/s/19hNOV7JRp3xPFkzorH7_aw?pwd=7wa2   code: 7wa2 
+）. Folder structure:**
 ```
 ParkOcc
 ├── data/
