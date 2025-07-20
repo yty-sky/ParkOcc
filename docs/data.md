@@ -1,7 +1,7 @@
 We have currently only open-sourced one scene from the dataset, as it takes time to anonymize all the data.
 
-**1. Download ParkOcc dataset data [HERE](https://jbox.sjtu.edu.cn/l/lHHZKZ)（
-new link: https://pan.baidu.com/s/19hNOV7JRp3xPFkzorH7_aw?pwd=7wa2   code: 7wa2 
+**1. Download ParkOcc dataset data [HERE](https://pan.baidu.com/s/1SYiQwwNFoM7ruLjQnhmjMQ?pwd=v6rx)（
+mini dataset link: https://pan.baidu.com/s/19hNOV7JRp3xPFkzorH7_aw?pwd=7wa2   code: 7wa2 
 ）. Folder structure:**
 ```
 ParkOcc
@@ -13,8 +13,7 @@ ParkOcc
 │   │   ├── velodyne
 ```
 
-**2. Download the generated [train](https://jbox.sjtu.edu.cn/l/UH1DeU)
-and [val](https://jbox.sjtu.edu.cn/l/n1rIml) pickle files and put them in data.**
+**2. Put the generated train and val pickle files in data.**
 
 
 **Folder structure:**
