@@ -41,7 +41,7 @@ In this paper, we propose ParkOcc, the first dataset and benchmark for surround-
 - [Installation](docs/install.md) 
 - [Prepare Dataset](docs/data.md)
 - [Train, Eval and Visualize](docs/run.md)\
-You can download our [pretrained backbone](https://jbox.sjtu.edu.cn/l/61lWmi) and [model weights](https://jbox.sjtu.edu.cn/l/21l24o).
+You can download our [pretrained backbone](https://jbox.sjtu.edu.cn/l/61lWmi) and [model weights](https://www.kaggle.com/models/sheepsky/adaptiveocc_v2).
 
 ## Acknowledgement
 Many thanks to these excellent open-source projects:
